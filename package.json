@@ -1,0 +1,12 @@
+{
+  "name": "responsive-image-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js project to host a responsive image using Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
